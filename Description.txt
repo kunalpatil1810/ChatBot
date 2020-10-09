@@ -1,0 +1,1 @@
+This is a Neural Networks project to create a simple business purpose oriented ChatBot.
